@@ -11,7 +11,7 @@ Object.assign(overlay.style, {
     fontSize: '24px',
     fontWeight: 'bold',
     display: 'flex',
-    justifyContent: 'center',
+    justifyContent: 'center', 
     alignItems: 'center',
 });
 const textContent = document.createElement('div');
